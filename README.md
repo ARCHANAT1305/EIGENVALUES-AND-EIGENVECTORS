@@ -20,7 +20,8 @@ End the program
 4. print("Eigen values are {} and Eigen vectors are {}".format(values,vectors))
 
 ## Output:
-![eigen](https://github.com/ARCHANAT1305/EIGENVALUES-AND-EIGENVECTORS/assets/145975189/dc19bbfe-f17c-4796-9d3f-3779c233c6ea)
+![eigen value and vector](https://github.com/ARCHANAT1305/EIGENVALUES-AND-EIGENVECTORS/assets/145975189/8274eeeb-3180-45b2-8d8c-50d379efe4a5)
+
 
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
